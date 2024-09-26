@@ -12,6 +12,7 @@ public class Main {
         w2.Print_free_seats();
         writer1.PrintWriterInfo(w1);
         writer1.PrintWriterInfo(w2);
+        System.out.println("Hello");
     }
 }
 
