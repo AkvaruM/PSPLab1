@@ -13,6 +13,7 @@ public class Main {
         writer1.PrintWriterInfo(w1);
         writer1.PrintWriterInfo(w2);
         System.out.println("Hello");
+        //Изменение 1
     }
 }
 
